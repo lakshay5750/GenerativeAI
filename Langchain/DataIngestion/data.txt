@@ -1,0 +1,32 @@
+I love learning machine learning. , general
+Artificial intelligence is the future. , general
+ChatGPT helps in coding and problem solving. , general
+Python is a powerful programming language. , general
+Data science involves statistics and programming. , general
+Deep learning is a subset of machine learning. , general
+Natural language processing deals with text data. , general
+
+I really enjoyed this movie, it was fantastic! , positive
+The product quality is terrible and disappointing. , negative
+Amazing experience, I would definitely recommend it. , positive
+Worst service ever, I am not happy at all. , negative
+The food was okay, not great but not bad either. , neutral
+Absolutely loved it! , positive
+I hate this app, it crashes every time. , negative
+
+User: Hi, how are you? , conversation
+Bot: I am fine, how can I help you? , conversation
+User: What is machine learning? , conversation
+Bot: Machine learning is a field of AI that allows systems to learn from data. , conversation
+User: Can you help me with Python? , conversation
+Bot: Yes, I can help you with Python programming. , conversation
+
+Machine learning is a rapidly growing field in computer science. It focuses on building systems that can learn from data and improve their performance over time without being explicitly programmed. , paragraph
+Natural language processing is a branch of artificial intelligence that deals with understanding and generating human language. It is widely used in chatbots, translation systems, and voice assistants. , paragraph
+
+Football is a popular sport played worldwide. , sports
+The stock market saw a huge drop today. , finance
+New AI models are being released every year. , technology
+The government passed a new law. , politics
+Cricket is very popular in India. , sports
+Bitcoin prices are highly volatile. , finance

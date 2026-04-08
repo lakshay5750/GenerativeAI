@@ -1,2 +1,4 @@
 langchain
 ipykernel
+langchain_community
+bs4

@@ -1,0 +1,129 @@
+<dataset>
+
+    <!-- General -->
+    <record>
+        <text>I love learning machine learning.</text>
+        <label>general</label>
+    </record>
+    <record>
+        <text>Artificial intelligence is the future.</text>
+        <label>general</label>
+    </record>
+    <record>
+        <text>ChatGPT helps in coding and problem solving.</text>
+        <label>general</label>
+    </record>
+    <record>
+        <text>Python is a powerful programming language.</text>
+        <label>general</label>
+    </record>
+    <record>
+        <text>Data science involves statistics and programming.</text>
+        <label>general</label>
+    </record>
+    <record>
+        <text>Deep learning is a subset of machine learning.</text>
+        <label>general</label>
+    </record>
+    <record>
+        <text>Natural language processing deals with text data.</text>
+        <label>general</label>
+    </record>
+
+    <!-- Sentiment -->
+    <record>
+        <text>I really enjoyed this movie, it was fantastic!</text>
+        <label>positive</label>
+    </record>
+    <record>
+        <text>The product quality is terrible and disappointing.</text>
+        <label>negative</label>
+    </record>
+    <record>
+        <text>Amazing experience, I would definitely recommend it.</text>
+        <label>positive</label>
+    </record>
+    <record>
+        <text>Worst service ever, I am not happy at all.</text>
+        <label>negative</label>
+    </record>
+    <record>
+        <text>The food was okay, not great but not bad either.</text>
+        <label>neutral</label>
+    </record>
+    <record>
+        <text>Absolutely loved it!</text>
+        <label>positive</label>
+    </record>
+    <record>
+        <text>I hate this app, it crashes every time.</text>
+        <label>negative</label>
+    </record>
+
+    <!-- Conversation -->
+    <record>
+        <text>User: Hi, how are you?</text>
+        <label>conversation</label>
+    </record>
+    <record>
+        <text>Bot: I am fine, how can I help you?</text>
+        <label>conversation</label>
+    </record>
+    <record>
+        <text>User: What is machine learning?</text>
+        <label>conversation</label>
+    </record>
+    <record>
+        <text>Bot: Machine learning is a field of AI that allows systems to learn from data.</text>
+        <label>conversation</label>
+    </record>
+    <record>
+        <text>User: Can you help me with Python?</text>
+        <label>conversation</label>
+    </record>
+    <record>
+        <text>Bot: Yes, I can help you with Python programming.</text>
+        <label>conversation</label>
+    </record>
+
+    <!-- Paragraph -->
+    <record>
+        <text>
+            Machine learning is a rapidly growing field in computer science. It focuses on building systems that can learn from data and improve their performance over time without being explicitly programmed.
+        </text>
+        <label>paragraph</label>
+    </record>
+    <record>
+        <text>
+            Natural language processing is a branch of artificial intelligence that deals with understanding and generating human language. It is widely used in chatbots, translation systems, and voice assistants.
+        </text>
+        <label>paragraph</label>
+    </record>
+
+    <!-- Topic Classification -->
+    <record>
+        <text>Football is a popular sport played worldwide.</text>
+        <label>sports</label>
+    </record>
+    <record>
+        <text>The stock market saw a huge drop today.</text>
+        <label>finance</label>
+    </record>
+    <record>
+        <text>New AI models are being released every year.</text>
+        <label>technology</label>
+    </record>
+    <record>
+        <text>The government passed a new law.</text>
+        <label>politics</label>
+    </record>
+    <record>
+        <text>Cricket is very popular in India.</text>
+        <label>sports</label>
+    </record>
+    <record>
+        <text>Bitcoin prices are highly volatile.</text>
+        <label>finance</label>
+    </record>
+
+</dataset>
