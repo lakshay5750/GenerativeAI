@@ -3,3 +3,5 @@ ipykernel
 langchain_community
 bs4
 langchain-text-splitters
+gensim
+faiss-cpu
