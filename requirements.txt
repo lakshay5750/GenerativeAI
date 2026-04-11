@@ -6,5 +6,10 @@ langchain-text-splitters
 gensim
 faiss-cpu
 langchain_chroma
-
+dotenv
 chromadb
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
